@@ -13,6 +13,7 @@
 		D1E4326528AF19C700FA9E4E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1E4326328AF19C700FA9E4E /* Main.storyboard */; };
 		D1E4326728AF19C900FA9E4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1E4326628AF19C900FA9E4E /* Assets.xcassets */; };
 		D1E4326A28AF19C900FA9E4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1E4326828AF19C900FA9E4E /* LaunchScreen.storyboard */; };
+		D1E4327228AF1A6B00FA9E4E /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = D1E4327128AF1A6B00FA9E4E /* cachorro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D1E4326628AF19C900FA9E4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1E4326928AF19C900FA9E4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D1E4326B28AF19C900FA9E4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1E4327128AF1A6B00FA9E4E /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		D1E4325C28AF19C700FA9E4E /* DogAge */ = {
 			isa = PBXGroup;
 			children = (
+				D1E4327128AF1A6B00FA9E4E /* cachorro.png */,
 				D1E4325D28AF19C700FA9E4E /* AppDelegate.swift */,
 				D1E4325F28AF19C700FA9E4E /* SceneDelegate.swift */,
 				D1E4326128AF19C700FA9E4E /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1E4327228AF1A6B00FA9E4E /* cachorro.png in Resources */,
 				D1E4326A28AF19C900FA9E4E /* LaunchScreen.storyboard in Resources */,
 				D1E4326728AF19C900FA9E4E /* Assets.xcassets in Resources */,
 				D1E4326528AF19C700FA9E4E /* Main.storyboard in Resources */,
